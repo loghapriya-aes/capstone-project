@@ -1,0 +1,4 @@
+﻿city,state,population,area,outage_sec_perweek,internet_service,tenure,monthly_charge,day_time,year,family_members_count,devices,usage_activity,bandwidth_gb_year
+West Branch,CA,10274,Rural,7.86736,DSL,70.14031,202.65,Afternoon,2021,9,2,14,904.5361102
+Needville,AK,2328,Urban,9.51866,DSL,71.67026,210.1051,Evening,2022,3,3,12,800.9827661
+Del Mar,MI,2848,Rural,9.129946,DSL,70.47803,222.6281,Afternoon,2022,1,3,9,2018.706961
